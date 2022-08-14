@@ -1,0 +1,2 @@
+/home/ubuntu/workspace/carpenter/WebServer/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/workspace/carpenter/WebServer/build/CMakeFiles/edit_cache.dir
